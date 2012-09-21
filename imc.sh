@@ -1,0 +1,1 @@
+convert photo.jpg --sample 10% -remap 312_pixelhobby_colors.png test.png
